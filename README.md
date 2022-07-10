@@ -1,4 +1,4 @@
-# coursers-test
-coursera test repository
+# Git-course
+course test repository
 
 ## Project Notes
